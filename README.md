@@ -3,35 +3,45 @@
 
 ## About Me
 
-Cybersecurity graduate with a B.S. in ***Cyber Security*** and a minor in ***Computer Science*** from the ***University of Tulsa***. Hands-on experience in deploying and confiuring ***SIEM environments***, ***endpoint monitoring***, ***system and security logs*** across Windows and Linux systems. In addition, experience with ***Windows Server Administration***, ***RAID configuration***, and ***Remote management*** on enterprise hardwrae, as well as ***attack and threat emulation***. Strong focus on defensive security, documentation, and practical implementation of monitoring, detection, and infrastructure fundamentals
+Cybersecurity graduate with a B.S. in ***Cyber Security*** and a minor in ***Computer Science*** from ***The University of Tulsa***. 
 
-## Techincal Skills
+Hands-on experience deploying and configuring ***Wazuh SIEM***, performing ***endpoint monitoring and log analysis*** across Windows and Linux systems, and building documented security lab environments. Strong foundation in ***Windows Server administration***, enterprise hardware configuration, and ***defensive security operations***, with practical experience in attack emulation, detection, and incident investigation workflows.
+
+## Technical Skills
 **Programming & Automation**
 
-`Python` `PowerShell` `Bash` `Java`
+`Python` · `PowerShell` · `Bash` · `Java`
+* Security automation and log parsing
+* Endpoint and system task scripting
 
-**Cyber Security Tools**
+**Security Tools & Platforms**
 
-`Wazuh SIEM` `Sysmon` `Wireshark` `Nmap` `Nessus` `Kibana`
+`Wazuh SIEM` · `Sysmon` · `Wireshark` · `Nmap` · `Nessus` · `Kibana`
+* Centralized logging and monitoring
+* File Integrity Monitoring (FIM)
+* Vulnerability scanning and network inspection
 
 **Threat Detection & Response**
 
-`Incident Response Fundamentals` `Threat modeling and attack simulation` `Network and packet analysis` `DNS and firewall security` `Alert triage and investigation`
+`Incident Response` · `Threat Modeling` · `Attack Simulation` · `Network Analysis` · `DNS Security` · `Firewall Configuration` · `Alert Triage`
+* SOC-style monitoring and alert investigation
+* Simulated attacks and detection validation
 
-**System Administration**
+**Systems & Infrastructure**
 
-`Linux (Ubtunu/Kali)` `Windows Server` `Active Directory` `Group Policy (GPOs)` `AWS (EC2, S3, IAM)`
+`Windows Server` · `Active Directory` · `Group Policy (GPO)` · `Linux (Ubuntu, Kali)` · `AWS (EC2, S3, IAM)`
+* Server deployment and hardening
+* Enterprise hardware configuration (RAID, iDRAC)
+* Cloud environment setup and access management
 
 ## Projects
 
-**I'm currently expanding this section to include more hands-on cybersecurity projects that demonstrate my skills, stay tuned updates soon**
-
 ### [Cyber Threat Emulation Capstone](https://github.com/HarrisonZimmerer/Senior_Project_Educational_Website_Spoofing)
-- Designing and developing realistic ***phishing and spoofing simulations***
-- Configuring and deploying virtual machine environments for isolated testing
-- Applying ***ethical and legal cybersecurity standards*** to educational simulations
-- Conducting ***threat modeling*** and user awareness analysis
-- Collaborating in a team-based capstone project to meet client-defined requirements
+- Designed and developed realistic ***phishing and spoofing simulations***
+- Configured and deployed virtual machine environments for isolated testing
+- Applyed ***ethical and legal cybersecurity standards*** to educational simulations
+- Conducted ***threat modeling*** and user awareness analysis
+- Collaborated in a team-based capstone project to meet client-defined requirements
 
 
 ### [SIEM Homelab via Wazuh](https://github.com/KenjiTratnik/At-Home-SIEM-Lab-via-Wazuh)
@@ -41,7 +51,7 @@ Cybersecurity graduate with a B.S. in ***Cyber Security*** and a minor in ***Com
 - Practiced SOC-style ***alert review and investigation workflows***
   
 ### [Dell PowerEdge R440 Bare-Metal Installation](https://github.com/KenjiTratnik/PowerEdge-R440-Build-Log)
-- Installed ***Windows Server 2019*** on etnerprise-grade Dell PowerEdge R440 hardware
+- Installed ***Windows Server 2019*** on enterprise-grade Dell PowerEdge R440 hardware
 - Configured ***PERC H330 RAID***, storage, and networking for reliability
 - Secured and configured ***iDRAC*** for remote management and monitoring
 - Installed drivers and firmware to ensure stable system operation

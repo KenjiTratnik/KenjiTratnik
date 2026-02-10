@@ -7,9 +7,11 @@ Cybersecurity graduate with a B.S. in ***Cyber Security*** and a minor in ***Com
 
 ## Techincal Skills
 **Programming & Automation**
+
 `Python` `PowerShell` `Bash` `Java`
 
 **Cyber Security Tools**
+
 `Wazuh SIEM` `Sysmon` `Wireshark` `Nmap` `Nessus` `Kibana`
 
 **Threat Detection & Response**

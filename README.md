@@ -57,6 +57,13 @@ Hands-on experience deploying and configuring ***Wazuh SIEM***, performing ***en
 - Installed drivers and firmware to ensure stable system operation
 - Built a dedicated lab platform for Active Directory and security testing
 
+### [Automated Enterprise File Infrastructure](https://github.com/KenjiTratnik/AD-User-Lifecycle-Automation)
+- Engineered a scalable directory solution for 50+ users using PowerShell automation and Active Directory DS
+- Deployed Access-Based Enumeration (ABE) and granular NTFS permissions to enforce data isolation and student privacy.
+- Successfully integrated physical BYOD clients into the domain namespace via DNS Aliasing and Kerberos/SPN configuration.
+- Authored comprehensive SOPs and Troubleshooting Guides documenting the resolution of complex SMB negotiation errors in a hybrid environment.
+
+
 **Upcoming Projects**
 - Sysmon + Wazuh detection engineering
 - Custom SIEM rule creation and tuning
